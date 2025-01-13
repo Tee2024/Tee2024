@@ -1,7 +1,21 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hello! I'm Ibigbemi Christiana Tolani 🤓, a data analyst, educator, and consultant with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
+Hi, I  am Ibigbemi  Tolani
+Data-driven decisions are my forte. As a Data Analyst with expertise in Excel, Power BI, SQL, and Tableau, I help businesses unlock growth through insightful analysis and visualization. My approach combines analytical rigor with a creative flair, ensuring that every dataset tells a compelling story.
+
+## Key Achievements:
+30% Increase in Efficiency: Streamlined reporting processes that saved countless hours.
+
+## Data Visualization Mastery: 
+Developed engaging dashboards that transformed complex data into clear insights.
+
+## Mentorship Passion: 
+Committed to guiding future analysts in navigating the data landscape.
+
+When I’m not diving into data, you can find me window shopping or enjoying the latest blockbuster. 
+
+Let’s connect and explore how we can leverage data to achieve your business goals.
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
@@ -40,7 +54,7 @@ Objective:
 This analysis aimed to evaluate production efficiency, cost analysis, and quality control metrics for production units over a specified period. The primary objective was to identify areas for improvement in operational performance and cost management.
 
 
-[Read More]([https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/](https://www.linkedin.com/pulse/production-efficiency-cost-analysis-tolani-ibigbemi-9mf0f?utm_source=share&utm_medium=member_android&utm_campaign=share_via))
+[Read More](https://www.linkedin.com/pulse/production-efficiency-cost-analysis-tolani-ibigbemi-9mf0f?utm_source=share&utm_medium=member_android&utm_campaign=share_via)
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
