@@ -45,7 +45,7 @@ I believe that every dataset has a story to tell, and my job is to help you hear
 *A glimpse of some of the projects I've been working on.*
 
 **Production Efficiency And Cost Analysis**
-![image](ddsd.jpeg)
+![image](rrreerer.png)
 
 Project Title: Production Efficiency and Cost Analysi
 
