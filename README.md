@@ -1,19 +1,28 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hello! I'm Anietie Etuk 🤓, a data analyst, educator, and consultant with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
+Hello! I'm Ibigbemi Christiana Tolani 🤓, a data analyst, educator, and consultant with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## WHAT I DO
 
-*As the Chief Analyst of SkillAhead Solutions Ltd, I provide consulting and training services for businesses and mentor aspiring analysts.*
+*You might be wondering, “What exactly does a data analyst do?” Well, let me break it down for you. I specialize in transforming numbers into narratives that drive business growth. With expertise in Excel, Power BI, and SQL, I make it my mission to help organizations harness the power of their data.
+*
+## My Focus.
+**- ✅ Data Analysis:**
+ I dive deep into datasets to uncover insights that inform strategic decisions. Whether it’s identifying trends or optimizing processes, I’m here to turn raw data into actionable strategies.
+ 
 
-**- ✅ Data Analytics Consulting.**
-I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
+**- ✅ Data Visualization:.**
+Using tools like Power BI and Tableau, I create engaging dashboards that make complex information accessible and easy to understand. My goal is to present data in a way that even your non-technical colleagues can appreciate (and maybe even enjoy).
 
-**- ✅ Staff Training & Development.**
-I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels. 
+
+**- ✅ Mentoring Future Analysts:.**
+ I’m passionate about sharing my knowledge and experience with aspiring data analysts. Whether it’s through one-on-one mentoring or workshops, I love helping others develop their skills and confidence in the world of data.
+
+**- ✅ My Passion:.**
+I believe that every dataset has a story to tell, and my job is to help you hear it. Data analysis isn’t just about crunching numbers; it’s about making informed decisions that lead to meaningful outcomes. Let’s connect if you’re interested in unlocking the potential of your data or if you just want to chat about the latest trends in analytics.
 
 
 <!--Section 2: List 3-4 key projects-->
