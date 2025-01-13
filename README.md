@@ -30,13 +30,17 @@ I believe that every dataset has a story to tell, and my job is to help you hear
 
 *A glimpse of some of the projects I've been working on.*
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-![image](1 anietie etuk data analytics car project.jpeg)
+**Production Efficiency And Cost Analysis**
+![image](ddsd.jpeg)
 
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
+Project Title: Production Efficiency and Cost Analysi
+
+Objective:
+
+This analysis aimed to evaluate production efficiency, cost analysis, and quality control metrics for production units over a specified period. The primary objective was to identify areas for improvement in operational performance and cost management.
 
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+[Read More]([https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/](https://www.linkedin.com/pulse/production-efficiency-cost-analysis-tolani-ibigbemi-9mf0f?utm_source=share&utm_medium=member_android&utm_campaign=share_via))
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
