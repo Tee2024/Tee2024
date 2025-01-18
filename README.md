@@ -75,6 +75,10 @@ These statistical measures collectively enable you to summarize and analyze the 
 
 <a href="https://www.linkedin.com/pulse/quick-statistics-data-analysis-christiana-ibigbemi/">Read the details here</a>
 
+**Gallery**
+Training and mentorship session with students
+
+
 
 ## CONTACT DETAILS
 
