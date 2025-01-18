@@ -40,7 +40,7 @@ I believe that every dataset has a story to tell, and my job is to help you hear
 
 
 <!--Section 2: List 3-4 key projects-->
-## MY PORTFOLIO 
+## Projects
 
 *A glimpse of some of the projects I've been working on.*
 
