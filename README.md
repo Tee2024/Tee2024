@@ -78,7 +78,7 @@ These statistical measures collectively enable you to summarize and analyze the 
 **Gallery**
 Training and mentorship session with students
 
-![image](WhatsApp Image 2025-01-18 at 12.40.58 (2).jpeg)
+![image](Screenshot 2025-01-13 225801.png)
 
 
 
