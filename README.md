@@ -84,7 +84,7 @@ Graduation ceremony with students
 
 training and mentorship
 
-![image](WhatsApp Image 2025-01-18 at 12.40.58 (2).jpeg)
+![image](WhatsApp Image 2025-01-18 at 12.50.36.jpeg)
 
 
 
