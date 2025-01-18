@@ -65,13 +65,13 @@ The primary goal of this project was to analyze the income statement data for th
 
 [Read More](https://www.linkedin.com/pulse/income-statement-analysis-2023-2024-tolani-ibigbemi-11r4f)
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Auto Car Sales Analysis.**
 
-![image](3 anietie etuk data analytics agro project.jpg)
+![image](Screenshot 2025-01-13 225801.png)
 
-Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
+. 
 
-<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7279578938819964928/">Read the details here</a>
 
 
 ## CONTACT DETAILS
