@@ -51,7 +51,7 @@ Project Title: Production Efficiency and Cost Analysi
 
 Objective:
 
-This analysis aimed to evaluate production efficiency, cost analysis, and quality control metrics for production units over a specified period. The primary objective was to identify areas for improvement in operational performance and cost management.
+This analysis aimed to evaluate production efficiency, cost analysis, and quality control metrics for production units over a specified period. The primary Objective was to identify areas for improvement in operational performance and cost management.
 
 
 [Read More](https://www.linkedin.com/pulse/production-efficiency-cost-analysis-tolani-ibigbemi-9mf0f?utm_source=share&utm_medium=member_android&utm_campaign=share_via)
@@ -63,7 +63,7 @@ This analysis aimed to evaluate production efficiency, cost analysis, and qualit
 objective:
 The primary goal of this project was to analyze the income statement data for the period of 2023-2024. The analysis aimed to identify key finacial trends, assess overall financial performance and provide actionable insights to enhance provitability.
 
-[Read More]()
+[Read More](https://www.linkedin.com/pulse/income-statement-analysis-2023-2024-tolani-ibigbemi-11r4f)
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
