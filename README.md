@@ -60,7 +60,7 @@ This analysis aimed to evaluate production efficiency, cost analysis, and qualit
 
 ![image](Screenshot 2024-12-26 112332.png)
 
-objective:
+Objective:
 The primary goal of this project was to analyze the income statement data for the period of 2023-2024. The analysis aimed to identify key finacial trends, assess overall financial performance and provide actionable insights to enhance provitability.
 
 [Read More](https://www.linkedin.com/pulse/income-statement-analysis-2023-2024-tolani-ibigbemi-11r4f)
