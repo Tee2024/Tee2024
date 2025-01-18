@@ -69,9 +69,11 @@ The primary goal of this project was to analyze the income statement data for th
 
 ![image](Screenshot 2025-01-13 225801.png)
 
-. 
 
-<a href="https://www.linkedin.com/feed/update/urn:li:activity:7279578938819964928/">Read the details here</a>
+**Quick Statistics in Data Analysis**
+These statistical measures collectively enable you to summarize and analyze the central tendency, spread, and distribution of data. By incorporating them into your data analysis toolkit, you can gain valuable insights, make informed comparisons, and draw meaningful conclusions tailored to your specific learning objectives.
+
+<a href="https://www.linkedin.com/pulse/quick-statistics-data-analysis-christiana-ibigbemi/">Read the details here</a>
 
 
 ## CONTACT DETAILS
