@@ -56,13 +56,14 @@ This analysis aimed to evaluate production efficiency, cost analysis, and qualit
 
 [Read More](https://www.linkedin.com/pulse/production-efficiency-cost-analysis-tolani-ibigbemi-9mf0f?utm_source=share&utm_medium=member_android&utm_campaign=share_via)
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Income Statement Analysis.**
 
-![image](2 anietie etuk data analytics sales project.jpg)
+![image](Screenshot 2024-12-26 112332.png)
 
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
+objective:
+The primary goal of this project was to analyze the income statement data for the period of 2023-2024. The analysis aimed to identify key finacial trends, assess overall financial performance and provide actionable insights to enhance provitability.
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+[Read More]()
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
