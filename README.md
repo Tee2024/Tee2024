@@ -95,7 +95,7 @@ These statistical measures collectively enable you to summarize and analyze the 
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+      <td><a href="CHRISTIANAIBIGBEMI Rated (1).pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
@@ -103,7 +103,7 @@ These statistical measures collectively enable you to summarize and analyze the 
     </tr>
     <tr>
       <td>📺</td>
-      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
+      <td><a href="https://www.youtube.com/@DataDuchess">Watch my tutorials on YouTube</a></td>
     </tr>
   </tbody>
 </table>
