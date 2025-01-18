@@ -78,6 +78,12 @@ These statistical measures collectively enable you to summarize and analyze the 
 **Gallery**
 Training and mentorship session with students
 
+Graduation ceremony with students
+
+![image](WhatsApp Image 2025-01-18 at 12.40.58 (2).jpeg)
+
+training and mentorship
+
 ![image](WhatsApp Image 2025-01-18 at 12.40.58 (2).jpeg)
 
 
