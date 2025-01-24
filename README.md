@@ -69,7 +69,7 @@ The primary goal of this project was to analyze the income statement data for th
 
 **Auto Car Sales Analysis.**
 
-![image](Screenshot 2025-01-13 225801.png)
+![image](Screenshot 2024-11-06 083338.png)
 
 Objective:
 The primary goal of this project is to analyze the performance of branches across different regions. The analysis aims to identify areas with the highest sales volumes, compare sales performance among branches, and understand regional preferences and market trends to provide actionable insights for stakeholders.
@@ -85,10 +85,7 @@ These statistical measures collectively enable you to summarize and analyze the 
 **Gallery**
 Training and mentorship session with students
 
-training and mentorship
-
 ![image](WhatsApp Image 2025-01-18 at 12.50.36.jpeg)
-
 
 
 ## CONTACT DETAILS
