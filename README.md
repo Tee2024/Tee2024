@@ -70,7 +70,8 @@ The primary goal of this project was to analyze the income statement data for th
 **Auto Car Sales Analysis.**
 
 ![image](Screenshot 2025-01-13 225801.png)
-
+Objective:
+The primary goal of this project is to analyze the performance of branches across different regions. The analysis aims to identify areas with the highest sales volumes, compare sales performance among branches, and understand regional preferences and market trends to provide actionable insights for stakeholders.
 
 **Quick Statistics in Data Analysis**
 These statistical measures collectively enable you to summarize and analyze the central tendency, spread, and distribution of data. By incorporating them into your data analysis toolkit, you can gain valuable insights, make informed comparisons, and draw meaningful conclusions tailored to your specific learning objectives.
