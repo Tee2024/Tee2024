@@ -74,7 +74,7 @@ The primary goal of this project was to analyze the income statement data for th
 Objective:
 The primary goal of this project is to analyze the performance of branches across different regions. The analysis aims to identify areas with the highest sales volumes, compare sales performance among branches, and understand regional preferences and market trends to provide actionable insights for stakeholders.
 
-[Read More](https://www.linkedin.com/pulse/income-statement-analysis-2023-2024-tolani-ibigbemi-11r4f)
+[Read More](https://medium.com/@tolicles/business-briefing-auto-car-sales-performance-analysis-9cf0089670b0)
 
 
 **Quick Statistics in Data Analysis**
