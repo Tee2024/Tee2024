@@ -16,7 +16,7 @@ Guided Over 50 Analysts: Helped new analysts build their skills and confidence i
 Created Easy-to-Follow Training Programs: Developed simple training materials that improved data skills for team members.
 
 ## Data Visualization Mastery: 
-Developed engaging dashboards that transformed complex data into clear insights.
+Built user-friendly dashboards that turned complicated data into easy-to-understand insight.
 
 ## Mentorship Passion: 
 Committed to guiding future analysts in navigating the data landscape.
