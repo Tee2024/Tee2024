@@ -8,8 +8,11 @@ My expertise in Excel, Power BI, SQL, and Tableau allows me to help businesses u
 
 ## Key Achievements:
 Expanded Market Reach: Conducted in-depth market segmentation analyses that identified new customer segments for businesses , leading to successful product launches.
+
 Boosted Revenue by 25%: Analyzed market trends and customer data to identify opportunities, leading to a significant increase in sales for businesses.
+
 Guided Over 50 Analysts: Helped new analysts build their skills and confidence in data analysis.
+
 Created Easy-to-Follow Training Programs: Developed simple training materials that improved data skills for team members.
 
 ## Data Visualization Mastery: 
