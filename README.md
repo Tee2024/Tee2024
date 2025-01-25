@@ -1,8 +1,8 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hi, I’m Ibigbemi Tolani!
-I am a passionate data analyst dedicated to transforming raw data into actionable insights. With a solid background in Sales and Marketing, I excel at solving complex problems and leveraging data to drive informed decision-making.
+Hello, I’m Ibigbemi Tolani.
+I am a passionate data analyst dedicated to transforming raw data into impactful insights. With a solid background in Sales and Marketing, I excel at solving complex problems and leveraging data to drive informed decision-making.
 
 My expertise in Excel, Power BI, SQL, and Tableau allows me to help businesses unlock growth through insightful analysis and visualization. I believe in combining analytical rigor with creative flair, ensuring that every dataset tells a compelling story that resonates with stakeholders.
 
