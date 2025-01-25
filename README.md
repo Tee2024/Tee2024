@@ -7,7 +7,10 @@ I am a passionate data analyst dedicated to transforming raw data into impactful
 My expertise in Excel, Power BI, SQL, and Tableau allows me to help businesses unlock growth through insightful analysis and visualization. I believe in combining analytical rigor with creative flair, ensuring that every dataset tells a compelling story that resonates with stakeholders.
 
 ## Key Achievements:
-30% Increase in Efficiency: Streamlined reporting processes that saved countless hours.
+Expanded Market Reach: Conducted in-depth market segmentation analyses that identified new customer segments for businesses , leading to successful product launches.
+Boosted Revenue by 25%: Analyzed market trends and customer data to identify opportunities, leading to a significant increase in sales for businesses.
+Guided Over 50 Analysts: Helped new analysts build their skills and confidence in data analysis.
+Created Easy-to-Follow Training Programs: Developed simple training materials that improved data skills for team members.
 
 ## Data Visualization Mastery: 
 Developed engaging dashboards that transformed complex data into clear insights.
