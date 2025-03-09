@@ -84,7 +84,8 @@ The primary goal of this project is to analyze the performance of branches acros
 
 **Performance Insights Dashboard.**
 
-![Screen Recording](Screen%20Recording%202025-03-06%20222024.mp4)
+![image](Screenshot 2025-03-06 215643.png)
+
 Objective:
 The goal of this project is to improve overall financial stability and growth by analyzing and addressing the profitability fluctuations across departments. This includes identifying the factors contributing to consistent losses in certain areas, enhancing visibility into the impact of geographic factors and employee counts on financial performance, and optimizing resource allocation to enhance departmental efficiency.
 
