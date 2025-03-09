@@ -132,7 +132,7 @@ Training and mentorship session with students
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="CHRISTIANAIBIGBEMI Rated (1).pdf">Download my CV</a></td>
+      <td><a href="My updated CV.pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
