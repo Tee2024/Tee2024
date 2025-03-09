@@ -82,12 +82,13 @@ The primary goal of this project is to analyze the performance of branches acros
 
 [Read More](https://medium.com/@tolicles/business-briefing-auto-car-sales-performance-analysis-9cf0089670b0)
 
-**Financial KPI Dashboard.**
+**Performance Insights Dashboard.**
 
-![image](Screenshot 2024-12-26 112332.png)
+![image](Screen Recording 2025-03-06 222024.mp4)
 
 Objective:
-The goal of this project is to Radically improve our sales performance to meet targets, while leveraging the Finance KPI Dashboard to identify key financial trends, assess overall financial performance, and provide actionable insights to enhance productivity.
+The goal of this project is to improve overall financial stability and growth by analyzing and addressing the profitability fluctuations across departments. This includes identifying the factors contributing to consistent losses in certain areas, enhancing visibility into the impact of geographic factors and employee counts on financial performance, and optimizing resource allocation to enhance departmental efficiency.
+
 [Read More](https://www.linkedin.com/posts/christianaibigbemi-dataanalyst_from-chaos-to-clarity-how-data-transformed-activity-7304492863575191553)
 
 
