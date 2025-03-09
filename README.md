@@ -82,6 +82,14 @@ The primary goal of this project is to analyze the performance of branches acros
 
 [Read More](https://medium.com/@tolicles/business-briefing-auto-car-sales-performance-analysis-9cf0089670b0)
 
+**Financial KPI Dashboard.**
+
+![image](Screenshot 2024-12-26 112332.png)
+
+Objective:
+The goal of this project is to Radically improve our sales performance to meet targets, while leveraging the Finance KPI Dashboard to identify key financial trends, assess overall financial performance, and provide actionable insights to enhance productivity.
+[Read More](https://www.linkedin.com/posts/christianaibigbemi-dataanalyst_from-chaos-to-clarity-how-data-transformed-activity-7304492863575191553)
+
 
 **Quick Statistics in Data Analysis**
 These statistical measures collectively enable you to summarize and analyze the central tendency, spread, and distribution of data. By incorporating them into your data analysis toolkit, you can gain valuable insights, make informed comparisons, and draw meaningful conclusions tailored to your specific learning objectives.
