@@ -93,7 +93,7 @@ The goal of this project is to improve overall financial stability and growth by
 
 **Workplace Incident Safety Dashboard.**
 
-![Screen Recording](Screen%20Recording%202025-03-06%20222024.mp4)
+![image](Screenshot 2025-02-20 175841.png)
 
 Objective:
 This project aims to analyse a safety dataset containing incidents reported across various departments within an organization. The dataset spans multiple years and includes various incident types, potential hazards, and outcomes. The goal is to derive actionable insights that can enhance safety protocols and reduce incident occurrences.
