@@ -84,12 +84,21 @@ The primary goal of this project is to analyze the performance of branches acros
 
 **Performance Insights Dashboard.**
 
-![image](Screen Recording 2025-03-06 222024.mp4)
-
+![Screen Recording](Screen%20Recording%202025-03-06%20222024.mp4)
 Objective:
 The goal of this project is to improve overall financial stability and growth by analyzing and addressing the profitability fluctuations across departments. This includes identifying the factors contributing to consistent losses in certain areas, enhancing visibility into the impact of geographic factors and employee counts on financial performance, and optimizing resource allocation to enhance departmental efficiency.
 
 [Read More](https://www.linkedin.com/posts/christianaibigbemi-dataanalyst_from-chaos-to-clarity-how-data-transformed-activity-7304492863575191553-_aVg?utm_source=share&utm_medium=member_desktop&rcm=ACoAACfMeEQB_LpemRkNFOMmgqbtOiAQg3IvHIg)
+
+**Workplace Incident Safety Dashboard.**
+
+![Screen Recording](Screen%20Recording%202025-03-06%20222024.mp4)
+
+Objective:
+This project aims to analyse a safety dataset containing incidents reported across various departments within an organization. The dataset spans multiple years and includes various incident types, potential hazards, and outcomes. The goal is to derive actionable insights that can enhance safety protocols and reduce incident occurrences.
+
+[Read More](https://www.linkedin.com/posts/christianaibigbemi-dataanalyst_workplace-safety-learning-from-data-to-build-activity-7300448907916943363-2Oql?utm_source=share&utm_medium=member_desktop&rcm=ACoAACfMeEQB_LpemRkNFOMmgqbtOiAQg3IvHIg)
+
 
 
 **Quick Statistics in Data Analysis**
