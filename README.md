@@ -89,7 +89,7 @@ The primary goal of this project is to analyze the performance of branches acros
 Objective:
 The goal of this project is to improve overall financial stability and growth by analyzing and addressing the profitability fluctuations across departments. This includes identifying the factors contributing to consistent losses in certain areas, enhancing visibility into the impact of geographic factors and employee counts on financial performance, and optimizing resource allocation to enhance departmental efficiency.
 
-[Read More](https://www.linkedin.com/posts/christianaibigbemi-dataanalyst_from-chaos-to-clarity-how-data-transformed-activity-7304492863575191553)
+[Read More](https://www.linkedin.com/posts/christianaibigbemi-dataanalyst_from-chaos-to-clarity-how-data-transformed-activity-7304492863575191553-_aVg?utm_source=share&utm_medium=member_desktop&rcm=ACoAACfMeEQB_LpemRkNFOMmgqbtOiAQg3IvHIg)
 
 
 **Quick Statistics in Data Analysis**
